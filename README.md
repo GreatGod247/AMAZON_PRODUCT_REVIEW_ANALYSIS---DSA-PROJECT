@@ -78,7 +78,7 @@ The dashboard helps e-commerce sellers quickly identify product performance tren
 
 - `https://docs.google.com/spreadsheets/d/1435fxWmmvzrQGNZ5IOguQOsQlK8hvTqw/edit?usp=drivesdk&ouid=116323669354298808896&rtpof=true&sd=true` – Cleaned dataset, pivot tables, and dashboard
 - `README.md` – This project summary
-- *(Optional: Screenshots of the dashboard or charts)*
+- **
 
 ---
 
