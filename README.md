@@ -68,7 +68,7 @@ The dashboard helps e-commerce sellers quickly identify product performance tren
   - Dashboard Design
   ## 📊 Dashboard Preview
 
-![Excel Dashboard](Excelview.png)
+![Excel Dashboard](Excel view.png)
 
 
 ---
