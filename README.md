@@ -1,5 +1,5 @@
+# 📦 Amazon Product Review Analysis (DSA Project)
 
-# 📦 AMAZON_PRODUCT_REVIEW_ANALYSIS---DSA-PROJECT
 This project is part of my Data Analysis course capstone project. As a Junior Data Analyst at **RetailTech Insights**, I was tasked with analyzing Amazon product and review data to provide insights that can guide product improvement, marketing strategies, and customer engagement.
 
 ---
@@ -78,15 +78,15 @@ The dashboard helps e-commerce sellers quickly identify product performance tren
 
 - `https://docs.google.com/spreadsheets/d/1435fxWmmvzrQGNZ5IOguQOsQlK8hvTqw/edit?usp=drivesdk&ouid=116323669354298808896&rtpof=true&sd=true` – Cleaned dataset, pivot tables, and dashboard
 - `README.md` – This project summary
-- **
+- *Screenshots of the dashboard or charts*
 
 ---
 
 ## 🙋‍♀️ About Me
 
 **Oluwatobiloba Jegede**  
-Junior Data Analyst | Virtual Assistant | Data Entry Specialist  
-📍 +234 803 2072273
+Junior Data Analyst | Virtual Assistant | Bookkeeper  
+📍 Osun State, Nigeria  
 📧 leah.oloidi@gmail.com  
 🔗 [LinkedIn](https://bit.ly/OluwatobilobaJegedeLinkedin)
 
