@@ -41,6 +41,9 @@ The following business questions were explored using **Excel** with the help of 
 ---
 
 ## 📊 Dashboard
+![Excel Dashboard](Dashboard.png)
+![Excel Dashboard](Excelview.png)
+![Excel Dashboard](Pivot.png)
 
 A clean, interactive dashboard was created in **Excel** to visualize insights such as:
 - Product count by category  
@@ -61,7 +64,10 @@ The dashboard helps e-commerce sellers quickly identify product performance tren
   - Calculated Columns
   - Conditional Formatting
   - Dashboard Design
-- *(Optional: Power Query or Power BI for future expansion)*
+  ## 📊 Dashboard Preview
+
+![Excel Dashboard](Excelview.png)
+
 
 ---
 
@@ -76,6 +82,10 @@ The dashboard helps e-commerce sellers quickly identify product performance tren
 
 ## 📁 Repository Contents
 
+# 📥 Download the Excel File
+
+[📊 Excel Dashboard Workbook](Amazon_Product_Review_Analysis.xlsx)
+
 - `https://docs.google.com/spreadsheets/d/1435fxWmmvzrQGNZ5IOguQOsQlK8hvTqw/edit?usp=drivesdk&ouid=116323669354298808896&rtpof=true&sd=true` – Cleaned dataset, pivot tables, and dashboard
 - `README.md` – This project summary
 - *Screenshots of the dashboard or charts*
@@ -85,12 +95,13 @@ The dashboard helps e-commerce sellers quickly identify product performance tren
 ## 🙋‍♀️ About Me
 
 **Oluwatobiloba Jegede**  
-Junior Data Analyst | Virtual Assistant | Bookkeeper  
-📍 Osun State, Nigeria  
+Junior Data Analyst | Virtual Assistant | Data Entry Specialist  
+📍 Osun State, Nigeria.
+📱 +234 803 2072273  
 📧 leah.oloidi@gmail.com  
 🔗 [LinkedIn](https://bit.ly/OluwatobilobaJegedeLinkedin)
 
-This project reflects my growing skills in data analysis and business intelligence using Excel. I’m open to collaboration and new opportunities in remote analytics roles.
-If you find this useful, feel free to ✴ this repo and use it for learning.
+This project reflects my growing skills in data analysis and business intelligence using Excel. I am open to collaboration and new opportunities in remote analytics roles.
+If you find this useful, feel free to ✴ this repo and use it for your learning.
 
 ---
