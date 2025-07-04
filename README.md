@@ -41,7 +41,7 @@ The following business questions were explored using **Excel** with the help of 
 ---
 
 ## 📊 Dashboard
-![Excel Dashboard](Dashboard .png)
+![Excel Dashboard](Dashboard.png)
 
 ![Excel Dashboard](Excel view.png)
 
@@ -86,7 +86,7 @@ The dashboard helps e-commerce sellers quickly identify product performance tren
 
 # 📥 Download the Excel File
 
-[📊 Excel Dashboard Workbook](Amazon Product Review Analysis (DSA Project).xlsx)
+[📊 Download Amazon Product Review Analysis (DSA Project).xlsx](Amazon Product Review Analysis (DSA Project).xlsx)
 
 - `Amazon Product Review Analysis (DSA Project).xslx` – Cleaned dataset, pivot tables, and dashboard
 - `README.md` – This project summary
