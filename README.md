@@ -91,5 +91,6 @@ Junior Data Analyst | Virtual Assistant | Bookkeeper
 🔗 [LinkedIn](https://bit.ly/OluwatobilobaJegedeLinkedin)
 
 This project reflects my growing skills in data analysis and business intelligence using Excel. I’m open to collaboration and new opportunities in remote analytics roles.
+If you found this useful, feel free to ✴ this repo and use it for learning.
 
 ---
